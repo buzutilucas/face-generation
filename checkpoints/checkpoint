@@ -1,0 +1,2 @@
+model_checkpoint_path: "generator_RGB.ckpt"
+all_model_checkpoint_paths: "generator_RGB.ckpt"
