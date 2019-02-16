@@ -8,6 +8,7 @@ In this project, I built a [deep convolutional generative adversarial network](h
     <img src="assets/new_images_generated.png">
   </center>
 </br>
+
 The project there are seven steps:
 - _Step 1:_ Explore the Data
  - MNIST
