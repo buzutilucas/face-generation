@@ -3,11 +3,9 @@ Udacity Deep Learning Nanodegree program 2019. In this project, I develop an alg
 
 ## Project Overview
 In this project, I built a [deep convolutional generative adversarial network](https://arxiv.org/pdf/1511.06434.pdf) (DCGAN) that can generate new images. Furthermore, I use a method for visual analysis of a neural network is also know as _feature maximization_ or _activation maximization_, to more information see [paper 1](https://arxiv.org/pdf/1506.06579.pdf) and [paper 2](https://arxiv.org/pdf/1602.03616.pdf). The project is using DCGAN, but it was based on [GANs](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) propose by Goodfellow
-<br>
-  <center>
+<center>
     <img src="assets/new_images_generated.png">
-  </center>
-</br>
+</center><br>
 
 The project there are seven steps:
 - _Step 1:_ Explore the Data
