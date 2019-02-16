@@ -11,21 +11,21 @@ In this project, I built a [deep convolutional generative adversarial network](h
 
 The project there are seven steps:
 - _Step 1:_ Explore the Data
- - MNIST
- - CelebA
+  - MNIST
+  - CelebA
 - _Step 2:_ Build the Neural Network
- - Input Function
- - Discriminator Function
- - Generator Function
- - Loss Function
- - Function to Optimization
+  - Input Function
+  - Discriminator Function
+  - Generator Function
+  - Loss Function
+  - Function to Optimization
 - _Step 3:_ Neural Network Training
 - _Step 4:_ Generation of new images
- - MNIST
- - CelebA
+  - MNIST
+  - CelebA
 - _Step 5:_ Visual Analysis*
- - MNIST
- - CelebA
+  - MNIST
+  - CelebA
 
 The code is written in Python 3 and [Tensorflow](https://www.tensorflow.org/) all presented in Jupyter Notebook.
 
