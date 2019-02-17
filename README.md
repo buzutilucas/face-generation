@@ -27,7 +27,7 @@ The project there are seven steps:
 
 The code is written in Python 3 and [Tensorflow](https://www.tensorflow.org/) all presented in Jupyter Notebook.
 
-<font size=2>\*Step 5 was implemented by me. Thus it does not belong in the Udacity original project.</font>
+\*Step 5 was implemented by me. Thus it does not belong in the Udacity original project.
 
 ### Prerequisites
 Thinks you have to install or installed on your working machine:
